@@ -61,7 +61,7 @@
 
 # 🚀 Featured Projects
 
-### 🔐 Resource Booking API
+### 🔐 AMS
 Secure RESTful API using **Spring Boot, JWT Authentication, RBAC, MySQL**
 
 ### 🤖 VeriFace-X
