@@ -17,6 +17,7 @@
 💙 Passionate **Software Engineer** focused on building intelligent digital products.
 
 - 📱 Mobile Application Developer (Flutter & Dart)
+- UI UX designer 
 - 🌐 Full Stack Web Developer
 - ⚙️ Backend Developer (Java • Spring Boot)
 - 🤖 AI & Machine Learning Enthusiast
